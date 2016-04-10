@@ -1,2 +1,5 @@
 # Hello-World
-Just another repository.
+
+Hello Humans!
+
+Elaine here. I'm new to the whole coding world and please treat me nice!!!
